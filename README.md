@@ -9,9 +9,6 @@ By [@meiz_sandwich](https://twitter.com/meiz_sandwich).
 
 License: can be used for any promotion of the D language.
 
-## Roadmap
+[Simple automaticed generated listing](https://wilzbach.github.io/d-mans).
 
-Automatically generated Github Pages or another visualization format
-for convenient browsing.
-
-[Ideas are welcome](https://github.com/wilzbach/d-mans/issues/1).
+[Improvements are welcome](https://github.com/wilzbach/d-mans/issues/1).

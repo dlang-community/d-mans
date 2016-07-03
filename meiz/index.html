@@ -7,7 +7,7 @@ title: Meiz
   {% assign pageurl = page.url | replace: 'index.html', '' %}
   {% if file.path contains pageurl %}
     {% if file.extname == '.jpg' %}
-	<img src="{{ baseurl }}/{{ file.path }}" style="max-width:30%" />
+	<img src="{{ site.baseurl }}/{{ file.path }}" style="max-width:30%" />
     {% endif %}
   {% endif %}
 {% endfor %}
