@@ -1,0 +1,13 @@
+---
+layout: default
+title: Meiz
+---
+
+{% for file in site.static_files %}
+  {% assign pageurl = page.url | replace: 'index.html', '' %}
+  {% if file.path contains pageurl %}
+    {% if file.extname == '.jpg' %}
+    <img src="{{ file.path }}" style="max-width:30%" />
+    {% endif %}
+  {% endif %}
+{% endfor %}

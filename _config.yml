@@ -1,0 +1,8 @@
+# Site settings
+title: International D-man collection
+description: >
+  Collection of D-Man drawings from around the world
+baseurl: ""
+
+# Build settings
+markdown: kramdown
