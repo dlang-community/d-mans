@@ -2,7 +2,7 @@
 title: International D-man collection
 description: >
   Collection of D-Man drawings from around the world
-baseurl: ""
+baseurl: "/d-mans"
 
 # Build settings
 markdown: kramdown
