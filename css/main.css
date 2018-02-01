@@ -1,1 +1,16 @@
-/*to be filled*/
+.home > .original {
+	width: 400px;
+	max-width: 100%;
+	padding: 16px;
+}
+
+.home > .original > img {
+	width: 100%;
+	display: block;
+}
+
+.home > .original > a {
+	text-align: center;
+	color: rgba(0, 0, 0, 0.54);
+}
+
