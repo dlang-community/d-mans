@@ -1,7 +1,8 @@
 .home > .original {
-	width: 400px;
+	width: 200px;
 	max-width: 100%;
 	padding: 16px;
+	margin: auto;
 }
 
 .home > .original > img {
