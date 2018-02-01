@@ -5,17 +5,17 @@ Collection of D-Man drawings from around the world
   <a href="./dman-original.svg"><img style="max-width: 100%; width: 200px" src="./dman-original.svg" alt="Original D-man svg"/></a>
 </p>
 
+## Collections
+
 Please feel free to add more!
 
-## [meiz](https://twitter.com/meiz_sandwich)
+### International D-Man collection
 
 By [@meiz_sandwich](https://twitter.com/meiz_sandwich).
 
 License: can be used for any promotion of the D language.
 
 [Simple automatatically generated listing](https://dlang-community.github.io/d-mans).
-
-[Improvements are welcome](https://github.com/dlang-community/d-mans/issues/1).
 
 ## Other D-Man resources
 
@@ -27,3 +27,7 @@ License: can be used for any promotion of the D language.
 
 Do you know a website, tweet, blog or other resource related to the D-Man?
 Add it [to the list](https://github.com/dlang-community/d-mans/edit/gh-pages/README.md).
+
+## I don't like the preview page
+
+[Improvements are welcome](https://github.com/dlang-community/d-mans/issues/1).
