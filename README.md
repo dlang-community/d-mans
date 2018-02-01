@@ -1,6 +1,10 @@
 Collection of D-Man drawings from around the world
 ==================================================
 
+<p align="center">
+  <a href="./dman-original.svg"><img style="max-width: 100%; width: 200px" src="./dman-original.svg" alt="Original D-man svg"/></a>
+</p>
+
 Please feel free to add more!
 
 ## [meiz](https://twitter.com/meiz_sandwich)
