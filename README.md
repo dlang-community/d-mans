@@ -28,6 +28,10 @@ License: can be used for any promotion of the D language.
 Do you know a website, tweet, blog or other resource related to the D-Man?
 Add it [to the list](https://github.com/dlang-community/d-mans/edit/gh-pages/README.md).
 
+## Shouldn't it be called d-men?
+
+We are politically correct and consider a "d-man" as genderless.
+
 ## I don't like the preview page
 
 [Improvements are welcome](https://github.com/dlang-community/d-mans/issues/1).
