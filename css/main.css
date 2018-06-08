@@ -16,3 +16,6 @@
 	color: rgba(0, 0, 0, 0.54);
 }
 
+.site-nav {
+    display: inline-block;
+}
