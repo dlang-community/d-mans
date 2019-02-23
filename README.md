@@ -24,6 +24,7 @@ License: can be used for any promotion of the D language.
 - [DMan Santa](https://santa.wfr.moe): Modern retro-graphics game featuring the D-Man
 - [Make-A-DMan](https://wfr.moe/make-a-dman): Interactive website that allows to create your own D-Man
 - [D-Man culture](https://forum.dlang.org/post/vccecaeunthhfgvkoija@forum.dlang.org): Summary of popular D-Man tweets
+- [D-Man subreddit](https://www.reddit.com/r/dman): A place to post D-Mans
 
 Do you know a website, tweet, blog or other resource related to the D-Man?
 Add it [to the list](https://github.com/dlang-community/d-mans/edit/gh-pages/README.md).
