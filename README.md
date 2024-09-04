@@ -17,6 +17,12 @@ By [@meiz_sandwich](https://twitter.com/meiz_sandwich).
 
 License: can be used for any promotion of the D language.
 
+### Oceandrift D-Man collection
+
+By Elias A. Batek ([@0xEAB](https://github.com/0xEAB)).
+
+License: [CC-BY-4.0](./oceandrift/COPYING.txt).
+
 ## Other D-Man resources
 
 - [dlang comic strips](https://twitter.com/DlangGuy): A collection of comics D-Man comics (made with love)

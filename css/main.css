@@ -17,5 +17,19 @@
 }
 
 .site-nav {
-    display: inline-block;
+	display: inline-block;
+}
+
+.gallery img {
+	max-width: 30%;
+}
+
+.gallery.big img {
+	max-width: 90%;
+}
+
+@media (min-width: 1200px) {
+	.gallery.big img {
+		max-width: 60%;
+	}
 }
